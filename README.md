@@ -1,5 +1,6 @@
 # ckad
-![Uploading image.png…]()
+
+https://medium.com/@shafath.001/mastering-ckad-a-journey-through-the-certified-kubernetes-application-developer-exam-500e8e0faa3c
 
 <html>
 <p>pratice questions : https://github.com/dgkanatsios/CKAD-exercises</p>
