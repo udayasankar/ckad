@@ -1,4 +1,5 @@
 # ckad
+![Uploading image.png…]()
 
 <html>
 <p>pratice questions : https://github.com/dgkanatsios/CKAD-exercises</p>
